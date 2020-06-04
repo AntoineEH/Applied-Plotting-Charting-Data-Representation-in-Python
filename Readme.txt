@@ -1,11 +1,13 @@
 Hi guys,
-My name is Antoine.
 
 I used these 3 datasets to get useful information about France in the Olympics since 1960 :
 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results?select=athlete_events.csv
 https://www.kaggle.com/resulcaliskan/countries-gdps
 https://www.kaggle.com/centurion1986/countries-population
+
+I have uploaded two of these datasets (country_gdp , coutry_pop) to this repository and not athlete_events.cvs due to its large size.
+you can dowload it from the link above.
 
 
 The visuals made it easy to conclude that:
