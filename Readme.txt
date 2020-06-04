@@ -6,7 +6,7 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 https://www.kaggle.com/resulcaliskan/countries-gdps
 https://www.kaggle.com/centurion1986/countries-population
 
-I have uploaded two of these datasets (country_gdp , coutry_pop) to this repository and not athlete_events.cvs due to its large size.
+I have uploaded two of these datasets (world_gdp , world_pop) to this repository and not athlete_events.cvs due to its large size.
 you can dowload it from the link above.
 
 
